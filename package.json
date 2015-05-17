@@ -1,0 +1,19 @@
+{
+  "name": "brunch-npm-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davide Bertola",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "trifl": "0.0.7"
+  },
+  "devDependencies": {
+    "brunch": "^1.8.2",
+    "javascript-brunch": "^1.7.1"
+  }
+}
